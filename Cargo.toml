@@ -1,0 +1,24 @@
+[package]
+name = "sixfive"
+version = "0.1.0"
+authors = ["Todd Young <youngmt1@ornl.gov>"]
+edition = "2018"
+description = "CS 6515: Graduate Algorithms"
+documentation = "https://docs.rs/sixfive"
+homepage = "https://github.com/scrivenshafts/sixfive"
+repository = "https://github.com/scrivenshafts/sixfive"
+keywords = []
+categories = []
+license = "Apache-2.0 OR MIT"
+
+[badges]
+travis-ci = { repository = "scrivenshafts/sixfive", branch = "master" }
+is-it-maintained-issue-resolution = { repository = "scrivenshafts/sixfive" }
+is-it-maintained-open-issues = { repository = "scrivenshafts/sixfive" }
+maintenance = { status = "actively-developed" }
+
+[dependencies]
+human-panic = "1.0"
+
+[dev-dependencies]
+doc-comment = "0.3"
