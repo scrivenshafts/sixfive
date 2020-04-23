@@ -9,7 +9,7 @@ homepage = "https://github.com/scrivenshafts/sixfive"
 repository = "https://github.com/scrivenshafts/sixfive"
 keywords = []
 categories = []
-license = "Apache-2.0 OR MIT"
+license = "MIT"
 
 [badges]
 travis-ci = { repository = "scrivenshafts/sixfive", branch = "master" }
