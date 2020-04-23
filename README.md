@@ -1,6 +1,7 @@
 # SixFive
 
 [![Build Status](https://travis-ci.com/scrivenshafts/sixfive.svg?branch=master)](https://travis-ci.com/scrivenshafts/sixfive)
+![Rust](https://github.com/scrivenshafts/sixfive/workflows/Rust/badge.svg)
 [![Crate](https://img.shields.io/crates/v/sixfive.svg)](https://crates.io/crates/sixfive)
 [![API](https://docs.rs/sixfive/badge.svg)](https://docs.rs/sixfive)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/scrivenshafts/sixfive.svg)](http://isitmaintained.com/project/scrivenshafts/sixfive)
