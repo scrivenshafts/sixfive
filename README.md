@@ -15,6 +15,7 @@ CS 6515: Graduate Algorithms
 This crate is guaranteed to compile on stable Rust 1.43.0 and up. It *might*
 compile with older versions but that may change in any new patch release.
 
+
 ## License
 
 - MIT license ([MIT](/LICENSE)
